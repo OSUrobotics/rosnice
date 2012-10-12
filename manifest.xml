@@ -1,0 +1,15 @@
+<package>
+  <description brief="rosnice">
+
+     Utility for changing the scheduler priority of nodes at runtime.
+
+  </description>
+  <author>Dan Lazewatsky</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/rosnice</url>
+  <depend package="rospy"/>
+
+</package>
+
+
